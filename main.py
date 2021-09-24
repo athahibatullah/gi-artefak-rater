@@ -12,7 +12,14 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content.startswith('$hello'):
-        await message.channel.send('Hello!')
+    if message.content.startswith('_rate'):
+        if message.attachments:
+            for attachment in message.attachments:
+                if 'image' in attachment.content_type:
+                    await message.channel.send("Ada gambar")
+                else:
+                    await message.channel.send("Gaada gambar artefaknya bang :angry:")
+        else:
+            await message.channel.send("Gaada gambar artefaknya bang")
 
 client.run(open('token.txt','r').readline())
