@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(1,'package\Lib\site-packages') #to get all the package
 import discord
 import os
 
