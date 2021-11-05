@@ -1,0 +1,250 @@
+{
+    "Ampas" : {
+        "HP": [
+            {"enchant_lvl": 0, "value" :209},
+            {"enchant_lvl": 4, "value" :418},
+            {"enchant_lvl": 8, "value" :627},
+            {"enchant_lvl": 12, "value" :836},
+            {"enchant_lvl": 16, "value" :1045},
+            {"enchant_lvl": 20, "value" :1254}
+            ],
+        "ATK": [
+            {"enchant_lvl": 0, "value" :14},
+            {"enchant_lvl": 4, "value" :28},
+            {"enchant_lvl": 8, "value" :42},
+            {"enchant_lvl": 12, "value" :56},
+            {"enchant_lvl": 16, "value" :70},
+            {"enchant_lvl": 20, "value" :84}
+        ],
+        "DEF": [
+            {"enchant_lvl": 0, "value" :16},
+            {"enchant_lvl": 4, "value" :32},
+            {"enchant_lvl": 8, "value" :48},
+            {"enchant_lvl": 12, "value" :64},
+            {"enchant_lvl": 16, "value" :80},
+            {"enchant_lvl": 20, "value" :96}
+        ],
+        "HP%": [
+            {"enchant_lvl": 0, "value" :0.041},
+            {"enchant_lvl": 4, "value" :0.082},
+            {"enchant_lvl": 8, "value" :0.123},
+            {"enchant_lvl": 12, "value" :0.164},
+            {"enchant_lvl": 16, "value" :0.205},
+            {"enchant_lvl": 20, "value" :0.246}
+        ],
+        "ATK%": [
+            {"enchant_lvl": 0, "value" :0.041},
+            {"enchant_lvl": 4, "value" :0.082},
+            {"enchant_lvl": 8, "value" :0.123},
+            {"enchant_lvl": 12, "value" :0.164},
+            {"enchant_lvl": 16, "value" :0.205},
+            {"enchant_lvl": 20, "value" :0.246}
+        ],
+        "DEF%": [
+            {"enchant_lvl": 0, "value" :0.051},
+            {"enchant_lvl": 4, "value" :0.102},
+            {"enchant_lvl": 8, "value" :0.153},
+            {"enchant_lvl": 12, "value" :0.204},
+            {"enchant_lvl": 16, "value" :0.255},
+            {"enchant_lvl": 20, "value" :0.306}
+        ],
+        "EM": [
+            {"enchant_lvl": 0, "value" :16},
+            {"enchant_lvl": 4, "value" :32},
+            {"enchant_lvl": 8, "value" :48},
+            {"enchant_lvl": 12, "value" :64},
+            {"enchant_lvl": 16, "value" :80},
+            {"enchant_lvl": 20, "value" :96}
+        ],
+        "CR": [
+            {"enchant_lvl": 0, "value" :0.027},
+            {"enchant_lvl": 4, "value" :0.054},
+            {"enchant_lvl": 8, "value" :0.081},
+            {"enchant_lvl": 12, "value" :0.108},
+            {"enchant_lvl": 16, "value" :0.135},
+            {"enchant_lvl": 20, "value" :0.162}
+        ],
+        "CDM": [
+            {"enchant_lvl": 0, "value" :0.054},
+            {"enchant_lvl": 4, "value" :0.108},
+            {"enchant_lvl": 8, "value" :0.162},
+            {"enchant_lvl": 12, "value" :0.216},
+            {"enchant_lvl": 16, "value" :0.270},
+            {"enchant_lvl": 20, "value" :0.324}
+        ],
+        "ER": [
+            {"enchant_lvl": 0, "value" :0.045},
+            {"enchant_lvl": 4, "value" :0.090},
+            {"enchant_lvl": 8, "value" :0.135},
+            {"enchant_lvl": 12, "value" :0.180},
+            {"enchant_lvl": 16, "value" :0.225},
+            {"enchant_lvl": 20, "value" :0.270}
+        ]
+    },
+
+    "Copium" : {
+        "HP": [
+            {"enchant_lvl": 0, "value" :254},
+            {"enchant_lvl": 4, "value" :508},
+            {"enchant_lvl": 8, "value" :762},
+            {"enchant_lvl": 12, "value" :1016},
+            {"enchant_lvl": 16, "value" :1270},
+            {"enchant_lvl": 20, "value" :1524}
+            ],
+        "ATK": [
+            {"enchant_lvl": 0, "value" :16.5},
+            {"enchant_lvl": 4, "value" :33},
+            {"enchant_lvl": 8, "value" :49.5},
+            {"enchant_lvl": 12, "value" :66},
+            {"enchant_lvl": 16, "value" :82.5},
+            {"enchant_lvl": 20, "value" :99}
+        ],
+        "DEF": [
+            {"enchant_lvl": 0, "value" :19.5},
+            {"enchant_lvl": 4, "value" :39},
+            {"enchant_lvl": 8, "value" :58.5},
+            {"enchant_lvl": 12, "value" :78},
+            {"enchant_lvl": 16, "value" :97.5},
+            {"enchant_lvl": 20, "value" :117}
+        ],
+        "HP%": [
+            {"enchant_lvl": 0, "value" :0.050},
+            {"enchant_lvl": 4, "value" :0.100},
+            {"enchant_lvl": 8, "value" :0.150},
+            {"enchant_lvl": 12, "value" :0.200},
+            {"enchant_lvl": 16, "value" :0.250},
+            {"enchant_lvl": 20, "value" :0.300}
+        ],
+        "ATK%": [
+            {"enchant_lvl": 0, "value" :0.050},
+            {"enchant_lvl": 4, "value" :0.100},
+            {"enchant_lvl": 8, "value" :0.150},
+            {"enchant_lvl": 12, "value" :0.200},
+            {"enchant_lvl": 16, "value" :0.250},
+            {"enchant_lvl": 20, "value" :0.300}
+        ],
+        "DEF%": [
+            {"enchant_lvl": 0, "value" :0.060},
+            {"enchant_lvl": 4, "value" :0.120},
+            {"enchant_lvl": 8, "value" :0.190},
+            {"enchant_lvl": 12, "value" :0.250},
+            {"enchant_lvl": 16, "value" :0.310},
+            {"enchant_lvl": 20, "value" :0.370}
+        ],
+        "EM": [
+            {"enchant_lvl": 0, "value" :19.5},
+            {"enchant_lvl": 4, "value" :39},
+            {"enchant_lvl": 8, "value" :58.5},
+            {"enchant_lvl": 12, "value" :78},
+            {"enchant_lvl": 16, "value" :97.5},
+            {"enchant_lvl": 20, "value" :117}
+        ],
+        "CR": [
+            {"enchant_lvl": 0, "value" :0.033},
+            {"enchant_lvl": 4, "value" :0.066},
+            {"enchant_lvl": 8, "value" :0.099},
+            {"enchant_lvl": 12, "value" :0.132},
+            {"enchant_lvl": 16, "value" :0.165},
+            {"enchant_lvl": 20, "value" :0.198}
+        ],
+        "CDM": [
+            {"enchant_lvl": 0, "value" :0.066},
+            {"enchant_lvl": 4, "value" :0.132},
+            {"enchant_lvl": 8, "value" :0.198},
+            {"enchant_lvl": 12, "value" :0.264},
+            {"enchant_lvl": 16, "value" :0.330},
+            {"enchant_lvl": 20, "value" :0.396}
+        ],
+        "ER": [
+            {"enchant_lvl": 0, "value" :0.055},
+            {"enchant_lvl": 4, "value" :0.110},
+            {"enchant_lvl": 8, "value" :0.170},
+            {"enchant_lvl": 12, "value" :0.220},
+            {"enchant_lvl": 16, "value" :0.280},
+            {"enchant_lvl": 20, "value" :0.330}
+        ]
+    },
+
+    "Bagus" : {
+        "HP": [
+            {"enchant_lvl": 0, "value" :299},
+            {"enchant_lvl": 4, "value" :598},
+            {"enchant_lvl": 8, "value" :897},
+            {"enchant_lvl": 12, "value" :1196},
+            {"enchant_lvl": 16, "value" :1495},
+            {"enchant_lvl": 20, "value" :1794}
+            ],
+        "ATK": [
+            {"enchant_lvl": 0, "value" :19},
+            {"enchant_lvl": 4, "value" :38},
+            {"enchant_lvl": 8, "value" :57},
+            {"enchant_lvl": 12, "value" :76},
+            {"enchant_lvl": 16, "value" :95},
+            {"enchant_lvl": 20, "value" :114}
+        ],
+        "DEF": [
+            {"enchant_lvl": 0, "value" :23},
+            {"enchant_lvl": 4, "value" :46},
+            {"enchant_lvl": 8, "value" :69},
+            {"enchant_lvl": 12, "value" :92},
+            {"enchant_lvl": 16, "value" :115},
+            {"enchant_lvl": 20, "value" :138}
+        ],
+        "HP%": [
+            {"enchant_lvl": 0, "value" :0.058},
+            {"enchant_lvl": 4, "value" :0.116},
+            {"enchant_lvl": 8, "value" :0.174},
+            {"enchant_lvl": 12, "value" :0.232},
+            {"enchant_lvl": 16, "value" :0.290},
+            {"enchant_lvl": 20, "value" :0.348}
+        ],
+        "ATK%": [
+            {"enchant_lvl": 0, "value" :0.058},
+            {"enchant_lvl": 4, "value" :0.116},
+            {"enchant_lvl": 8, "value" :0.174},
+            {"enchant_lvl": 12, "value" :0.232},
+            {"enchant_lvl": 16, "value" :0.290},
+            {"enchant_lvl": 20, "value" :0.348}
+        ],
+        "DEF%": [
+            {"enchant_lvl": 0, "value" :0.073},
+            {"enchant_lvl": 4, "value" :0.146},
+            {"enchant_lvl": 8, "value" :0.219},
+            {"enchant_lvl": 12, "value" :0.292},
+            {"enchant_lvl": 16, "value" :0.365},
+            {"enchant_lvl": 20, "value" :0.438}
+        ],
+        "EM": [
+            {"enchant_lvl": 0, "value" :23},
+            {"enchant_lvl": 4, "value" :46},
+            {"enchant_lvl": 8, "value" :69},
+            {"enchant_lvl": 12, "value" :92},
+            {"enchant_lvl": 16, "value" :115},
+            {"enchant_lvl": 20, "value" :138}
+        ],
+        "CR": [
+            {"enchant_lvl": 0, "value" :0.039},
+            {"enchant_lvl": 4, "value" :0.078},
+            {"enchant_lvl": 8, "value" :0.117},
+            {"enchant_lvl": 12, "value" :0.156},
+            {"enchant_lvl": 16, "value" :0.195},
+            {"enchant_lvl": 20, "value" :0.234}
+        ],
+        "CDM": [
+            {"enchant_lvl": 0, "value" :0.078},
+            {"enchant_lvl": 4, "value" :0.156},
+            {"enchant_lvl": 8, "value" :0.234},
+            {"enchant_lvl": 12, "value" :0.312},
+            {"enchant_lvl": 16, "value" :0.390},
+            {"enchant_lvl": 20, "value" :0.468}
+        ],
+        "ER": [
+            {"enchant_lvl": 0, "value" :0.065},
+            {"enchant_lvl": 4, "value" :0.130},
+            {"enchant_lvl": 8, "value" :0.195},
+            {"enchant_lvl": 12, "value" :0.260},
+            {"enchant_lvl": 16, "value" :0.325},
+            {"enchant_lvl": 20, "value" :0.390}
+        ]
+    }
+}
