@@ -1,0 +1,127 @@
+{
+    "Archaic Petra": {
+        "Flower": "Flower of the Creviced Cliff",
+        "Feather": "Feather of Jagged Peaks",
+        "Eon": "Sundial of Enduring Jade",
+        "Goblet": "Goblet of Chiseled Crag",
+        "Circlet": "Mask of Solitude Basalt"
+    },
+    "Blizzard Strayer": {
+        "Flower": "Snowswept Memory",
+        "Feather": "Icebreaker's Resolve",
+        "Eon": "Frozen Homeland's Demise",
+        "Goblet": "Frost-Weaved Dignity",
+        "Circlet": "Broken Rime's Echo"
+    },
+    "Bloodstained Chivalry": {
+        "Flower": "Bloodstained Flower of Iron",
+        "Feather": "Bloodstained Black Plume",
+        "Eon": "Bloodstained Final Hour",
+        "Goblet": "Bloodstained Chevalier's Goblet",
+        "Circlet": "Bloodstained Iron Mask"
+    },
+    "Crimson Witch of Flames": {
+        "Flower": "Witch's Flower of Blaze",
+        "Feather": "Witch's Ever-Burning Plume",
+        "Eon": "Witch's End Time",
+        "Goblet": "Witch's Heart Flames",
+        "Circlet": "Witch's Scorching Hat"
+    },
+    "Emblem of Severed Fate": {
+        "Flower": "Magnificent Tsuba",
+        "Feather": "Sundered Feather",
+        "Eon": "Storm Cage",
+        "Goblet": "Scarlet Vessel",
+        "Circlet": "Ornate Kabuto"
+    },
+    "Gladiator's Finale": {
+        "Flower": "Gladiator's Nostalgia",
+        "Feather": "Gladiator's Destiny",
+        "Eon": "Gladiator's Longing",
+        "Goblet": "Gladiator's Intoxication",
+        "Circlet": "Gladiator's Triumphus"
+    },
+    "Heart of Depth": {
+        "Flower": "Gilded Corsage",
+        "Feather": "Gust of Nostalgia",
+        "Eon": "Copper Compass",
+        "Goblet": "Goblet of Thundering Deep",
+        "Circlet": "Wine-Stained Tricorne"
+    },
+    "Lavawalker": {
+        "Flower": "Lavawalker's Resolution",
+        "Feather": "Lavawalker's Salvation",
+        "Eon": "Lavawalker's Torment",
+        "Goblet": "Lavawalker's Epiphany",
+        "Circlet": "Lavawalker's Wisdom"
+    },
+    "Maiden Beloved": {
+        "Flower": "Maiden's Distant Love",
+        "Feather": "Maiden's Heart-stricken Infatuation",
+        "Eon": "Maiden's Passing Youth",
+        "Goblet": "Maiden's Fleeting Leisure",
+        "Circlet": "Maiden's Fading Beauty"
+    },
+    "Noblesse Oblige": {
+        "Flower": "Royal Flora",
+        "Feather": "Royal Plume",
+        "Eon": "Royal Pocket Watch",
+        "Goblet": "Royal Silver Urn",
+        "Circlet": "Royal Masque"
+    },
+    "Pale Flame": {
+        "Flower": "Stainless Bloom",
+        "Feather": "Wise Doctor's Pinion",
+        "Eon": "Moment of Cessation",
+        "Goblet": "Surpassing Cup",
+        "Circlet": "Mocking Mask"
+    },
+    "Retracing Bolide": {
+        "Flower": "Summer Night's Bloom",
+        "Feather": "Summer Night's Finale",
+        "Eon": "Summer Night's Moment",
+        "Goblet": "Summer Night's Waterballoon",
+        "Circlet": "Summer Night's Mask"
+    },
+    "Shimenawa's Reminiscence": {
+        "Flower": "Entangling Bloom",
+        "Feather": "Shaft of Remembrance",
+        "Eon": "Morning Dew's Moment",
+        "Goblet": "Hopeful Heart",
+        "Circlet": "Capricious Visage"
+    },
+    "Tenacity of the Millelith": {
+        "Flower": "Flower of Accolades",
+        "Feather": "Ceremonial War-Plume",
+        "Eon": "Orichalceous Time-Dial",
+        "Goblet": "Noble's Pledging Vessel",
+        "Circlet": "General's Ancient Helm"
+    },
+    "Thundering Fury": {
+        "Flower": "Thunderbird's Mercy",
+        "Feather": "Survivor of Catastrophe",
+        "Eon": "Hourglass of Thunder",
+        "Goblet": "Omen of Thunderstorm",
+        "Circlet": "Thunder Summoner's Crown"
+    },
+    "Thundersoother": {
+        "Flower": "Thundersoother's Heart",
+        "Feather": "Thundersoother's Plume",
+        "Eon": "Hour of Soothing Thunder",
+        "Goblet": "Thundersoother's Goblet",
+        "Circlet": "Thundersoother's Diadem"
+    },
+    "Viridescent Venerer": {
+        "Flower": "In Rememberence of Viridescent Fields",
+        "Feather": "Viridescent Arrow Feather",
+        "Eon": "Viridescent Venerer's Determination",
+        "Goblet": "Viridescent Venerer's Vessel",
+        "Circlet": "Viridescent Venerer's Diadem"
+    },"Wanderer's Troupe": {
+        "Flower": "Troupe's Dawnlight",
+        "Feather": "Bard's Arrow Feather",
+        "Eon": "Concert's Final Hour",
+        "Goblet": "Wanderer's String-Kettle",
+        "Circlet": "Conductor's Top Hat"
+    }
+}
